@@ -43,11 +43,6 @@ This project is a React-based CRUD application for managing articles, built usin
    - Includes a delete button to remove the article.
    - Views count increases by 1 upon visiting this screen.
 
-## Additional Notes
-
-- Developers are free to implement extra features as needed.
-- The final source code should be submitted as a **ZIP** file.
-
 ## Project Setup & ESLint Configuration
 
 This project follows best practices for React development with TypeScript and Vite.
@@ -98,7 +93,7 @@ export default tseslint.config({
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/crud_test.git
+   git clone https://github.com/ntanh1203/CRUD_TEST.git
    ```
 2. Install dependencies:
    ```sh
